@@ -1,0 +1,11 @@
+G:\GevCore\Example-Tchat-Client\bin\Debug\Example-Tchat-Client.exe.config
+G:\GevCore\Example-Tchat-Client\bin\Debug\Example-Tchat-Client.exe
+G:\GevCore\Example-Tchat-Client\bin\Debug\Example-Tchat-Client.pdb
+G:\GevCore\Example-Tchat-Client\bin\Debug\GevCore.dll
+G:\GevCore\Example-Tchat-Client\bin\Debug\GevCore.pdb
+G:\GevCore\Example-Tchat-Client\obj\Debug\Example-Tchat-Client.csprojResolveAssemblyReference.cache
+G:\GevCore\Example-Tchat-Client\obj\Debug\Example_Tchat_Client.Form1.resources
+G:\GevCore\Example-Tchat-Client\obj\Debug\Example_Tchat_Client.Properties.Resources.resources
+G:\GevCore\Example-Tchat-Client\obj\Debug\Example-Tchat-Client.csproj.GenerateResource.Cache
+G:\GevCore\Example-Tchat-Client\obj\Debug\Example-Tchat-Client.exe
+G:\GevCore\Example-Tchat-Client\obj\Debug\Example-Tchat-Client.pdb

@@ -1,0 +1,10 @@
+G:\GevCore\Example-Tchat-Server\bin\Debug\Example-Tchat-Server.exe.config
+G:\GevCore\Example-Tchat-Server\bin\Debug\Example-Tchat-Server.exe
+G:\GevCore\Example-Tchat-Server\bin\Debug\Example-Tchat-Server.pdb
+G:\GevCore\Example-Tchat-Server\bin\Debug\GevCore.dll
+G:\GevCore\Example-Tchat-Server\bin\Debug\GevCore.pdb
+G:\GevCore\Example-Tchat-Server\obj\Debug\Example-Tchat-Server.csprojResolveAssemblyReference.cache
+G:\GevCore\Example-Tchat-Server\obj\Debug\Example-Tchat-Server.exe
+G:\GevCore\Example-Tchat-Server\obj\Debug\Example-Tchat-Server.pdb
+G:\GevCore\Example-Tchat-Server\bin\Debug\ShadowEmu.ORM.dll
+G:\GevCore\Example-Tchat-Server\bin\Debug\ShadowEmu.ORM.pdb
